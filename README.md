@@ -38,4 +38,4 @@ Este projeto tem como objetivo realizar o provisionamento automatizado de usuár
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone  https://github.com/FelipeMattosdev/script-de-configura-o-Bash-Script-.git
